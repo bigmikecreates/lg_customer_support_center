@@ -18,4 +18,4 @@ I will be exploring the below-listed frameworks from the LangChain ecosystem to 
 - LangGraph
 - LangSmith
 
-The following document is being used to define the persona for this multi-agent system (<a href='customer_rep_persona_store\customer_support_rep_persona.md'>link to persona definiton document</a>). This also means the multi-agent system's evaluation system will be **benchmarked** against a human Customer Support Representative.
+The following document, taking inspiration from a human Customer Support Expert, is being used to define the persona for this multi-agent system (<a href='customer_rep_persona_store\customer_support_rep_persona.md'>link to persona definiton document</a>). This also means the multi-agent system’s performance will be benchmarked against that of a human Customer Support Representative.
