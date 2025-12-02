@@ -4,6 +4,7 @@
 
 ![Env: Anaconda](https://img.shields.io/badge/Env-Anaconda-darkgreen)
 ![Agentic Ecosystem: Lang(Chain/Graph/Smith)](https://img.shields.io/badge/AI_Suite-Lang(Chain/Graph/Smith)-blue)
+![Python Version: 3.10.19](https://img.shields.io/badge/Py_Version-3.10.19-yellow)
 
 Demonstration of agentic capabilities **using the LangChain ecosystem** through the Customer Support industry.
 </div>
